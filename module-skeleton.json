@@ -1,0 +1,15 @@
+{
+  "repository": "module-sap-controlling-filament",
+  "capabilityKey": "planned:sap:controlling",
+  "presentation": "laravel-filament",
+  "package": "liberusoftware/sap-controlling-filament",
+  "foundation": "module-boilerplate-filament",
+  "foundationCommit": "9282e55622b1abd4db48da891480cd9cac46c158",
+  "canonicalPlan": "projects/sap/nextjs/controlling.md",
+  "presentationPlan": "projects/sap/filament/controlling.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "sap"
+  ]
+}
